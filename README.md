@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-<!--
-**SianReilly/SianReilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on SQL, Python and R.
 - 🌱 I’m currently learning about river restoration.
 - 👯 I’m looking to collaborate on environmental projects.
 - 📫 How to reach me: ...
 - 😄 Pronouns: She / They
 - ⚡ Fun fact: I've won a baking competition!
--->
 
 # More about me...
 
-![Sian Reilly]([https://yourimageurl.com](https://media.licdn.com/dms/image/D4E03AQGAburq2iFOtQ/profile-displayphoto-shrink_800_800/0/1678983602345?e=1715817600&v=beta&t=h_aQxQsIIJuWPUEkOTOFQgcrZekhbU9oTityAEg8Qtk))
+![Sian Reilly]([https://yourimageurl.com](![1678983602345](https://github.com/SianReilly/SianReilly/assets/90150030/920e3640-f32c-4db0-8723-ad8d4a0c99fd)
+))
 
 ## Customer Solutions Engineer, Deepki. Environmental Earth Sciences (1st Class, Hons)
 
