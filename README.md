@@ -10,7 +10,7 @@
 # More about me...
 <img src="https://github.com/SianReilly/SianReilly/assets/90150030/d58f28dd-6caa-4df7-bfcc-75f7e4ac3466" width="200">
 
-## Customer Solutions Engineer @ Deepki. 🌍
+## Customer Solutions Engineer @ Deepki. 👩‍💻
 ## Environmental Earth Sciences (1st Class, Hons) 🌍
 
 I analyse, interpret, and visualise real estate data to implement compelling platforms that empower data management and analysis at Deepki. I am self-motivated, work at pace to deliver high-quality projects, and am an effective communicator who can articulate complex scenarios to non-specialist audiences. After I graduated, I became the Lead ESG consultant at Onnu, an innovative biotechnology start-up in London.
