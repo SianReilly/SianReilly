@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on SQL, Python and R.
 - 🌱 I’m currently learning about river restoration.
 - 👯 I’m looking to collaborate on environmental projects.
-- 📫 How to reach me: ...
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sian-reilly).
 - 😄 Pronouns: She / They
 - ⚡ Fun fact: I've won a baking competition!
 
