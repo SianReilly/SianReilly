@@ -9,8 +9,6 @@
 
 # More about me...
 
-![Sian Reilly](https://yourimageurl.com)
-
 ![Sian Reilly](https://github.com/SianReilly/SianReilly/assets/90150030/d58f28dd-6caa-4df7-bfcc-75f7e4ac3466)
 
 
