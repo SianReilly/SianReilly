@@ -9,8 +9,10 @@
 
 # More about me...
 
-![Sian Reilly]([https://yourimageurl.com](![1678983602345](https://github.com/SianReilly/SianReilly/assets/90150030/920e3640-f32c-4db0-8723-ad8d4a0c99fd)
-))
+![Sian Reilly](https://yourimageurl.com)
+
+![1678983602345](https://github.com/SianReilly/SianReilly/assets/90150030/d58f28dd-6caa-4df7-bfcc-75f7e4ac3466)
+
 
 ## Customer Solutions Engineer, Deepki. Environmental Earth Sciences (1st Class, Hons)
 
