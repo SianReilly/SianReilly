@@ -41,7 +41,7 @@ I came to analytics from environmental science, via ESG consultancy at Onnu and 
 | | |
 |---|---|
 | **Languages** | Python, R, SQL, DAX |
-| **Libraries** | pandas, NumPy, scikit-learn, [ADD YOURS] |
+| **Libraries** | pandas, NumPy, scikit-learn, seaborn, plotly, bokeh, tidyverse, dplr, ggplot2 |
 | **Analysis** | Regularised regression, clustering, spatial analysis, ETL pipelines |
 | **Visualisation & BI** | Streamlit, Power BI, Power Query, [plotting libraries] |
 | **Geospatial** | ArcGIS Pro, ArcGIS Experience Builder, ModelBuilder, QGIS |
