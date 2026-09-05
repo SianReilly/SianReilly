@@ -17,7 +17,7 @@ Data and Intelligence Analyst at Westminster City Council, modelling and visuali
 ## Skills / Qualifications 💻
 - Coding (in order of confidence): Python, r, DAX, YAML, HTML, SQL, Java.
 - ONS Secure Researcher Accreditation
-- PowerBI (PL300 course), DAX.
+- PowerBI (PL300 course), DAX, Power Query.
 - GIS: ArcGIS & QGIS (Spatial Analysis), ModelBuilder.
 - ETLs (Extract, Transform, & Load)
 - Statistics
@@ -30,13 +30,17 @@ Data and Intelligence Analyst at Westminster City Council, modelling and visuali
 #### Westminster City Council (WCC)
 07/2024- Present, London
 
-#### Achievements/Tasks:
-- Lead GIS Analyst on the Cumulative Impact of Licensed Premises (hotspot analysis using crime, noise, ASB, footfall and the density of licensed premises).
-- CIA Storyboard here: https://storymaps.arcgis.com/stories/97f162599a254a0ca19f4aba396b9b21
-- Lead child population decline & wider children's services analysis, dashboard here: https://childrensdemographicswcc.streamlit.app/
-- Created several PowerBI dashboards for services, including analysis into most promising opportunities for Solar PV across WCC's housing - generating dynamic text and DAX.
-- Created and updated several ArcGIS webapps for services, including the community hubs and heat network webapp.
-
+## What I work on
+ 
+**Modelling**
+- **Drivers of health inequality** — LASSO regression on ward-level life expectancy, using regularisation to select from a large set of correlated Marmot indicators where a standard model would overfit. Run separately across male, female and overall to avoid averaging away differing drivers.
+- **UK local authority nearest-neighbour benchmarking** — clustering every local authority across England, Wales, Scotland and Northern Ireland on children's services demand indicators. The interesting problem was less the clustering than reconciling four national statistical frameworks with different definitions, geographies and publication cycles.
+**Spatial analysis**
+- **[Cumulative Impact of Licensed Premises](https://storymaps.arcgis.com/stories/97f162599a254a0ca19f4aba396b9b21)** — hotspot analysis combining crime, noise, antisocial behaviour, footfall and licensed premises density, feeding a statutory assessment. Nominated for a Local Government Association award.
+- ArcGIS web applications for community hubs and heat networks, built so non-technical service teams can self-serve spatial data.
+**Tools & dashboards**
+- **[Children's demographics explorer](https://childrensdemographicswcc.streamlit.app/)** — Streamlit app for exploring child population decline and demand projections.
+- Power BI dashboards using DAX and dynamic narrative text, including a suitability assessment for solar PV across the council's housing stock.
 ### Customer Solutions Engineer
 #### Deepki
 01/2023 - 06/2024, London
