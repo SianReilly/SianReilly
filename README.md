@@ -18,7 +18,7 @@ I came to analytics from environmental science, via ESG consultancy at Onnu and 
 
 ### Modelling
 
-**Drivers of health inequality** - LASSO regression on ward-level life expectancy, using regularisation to select from a large set of correlated Marmot indicators where a standard model would overfit. Run separately across male, female and overall to avoid averaging away differing drivers as part of the Common Progress Measures project (CPM). **[CPM Dashboard](https://cpmregression.streamlit.app/](https://cpmregression.streamlit.app/)**
+**Drivers of health inequality** - LASSO regression on ward-level life expectancy, using regularisation to select from a large set of correlated Marmot indicators where a standard model would overfit. Run separately across male, female and overall to avoid averaging away differing drivers as part of the Common Progress Measures project (CPM). **[CPM Dashboard](https://cpmregression.streamlit.app/)**
 
 **UK local authority nearest-neighbour benchmarking** - clustering every local authority across England, Wales, Scotland and Northern Ireland on children's services demand indicators. The interesting problem was less the clustering than reconciling four national statistical frameworks with different definitions, geographies and publication cycles. **[Clustering Tool Dashboard](https://subnational-statistics-and-analysis.streamlit.app/)**
 
