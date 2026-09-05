@@ -40,13 +40,14 @@ I came to analytics from environmental science, via ESG consultancy at Onnu and 
 
 | | |
 |---|---|
-| **Core** | Python, R, SQL, DAX |
-| **Also use/used** | YAML, HTML, Java |
+| **Languages** | Python, R, SQL, DAX |
+| **Libraries** | pandas, NumPy, scikit-learn, [ADD YOURS] |
 | **Analysis** | Regularised regression, clustering, spatial analysis, ETL pipelines |
-| **Visualisation** | Streamlit, Power BI (PL-300), Power Query, ArcGIS Pro, QGIS, ModelBuilder |
-| **Accreditations** | ONS Secure Researcher, Lead ISO 14001 Internal Auditor | Associate of the Institute of Sustainability and Environmental Professionals (ISEP) |
-
----
+| **Visualisation & BI** | Streamlit, Power BI, Power Query, [plotting libraries] |
+| **Geospatial** | ArcGIS Pro, ArcGIS Experience Builder, ModelBuilder, QGIS |
+| **Ways of working** | Git, Agile (Professional Scrum Product Owner) |
+| **Familiar with** | YAML, HTML, Java |
+| **Accreditations** | ONS Secure Researcher, Lead ISO 14001 Internal Auditor, Associate of the Institute of Sustainability and Environmental Professionals (ISEP) |
 
 ## A note on the work
 
