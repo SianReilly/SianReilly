@@ -6,8 +6,8 @@
 
 ## Data and Intelligence Analyst - WCC 👩‍💻
 ## Environmental Earth Sciences (1st Class, Hons) 🌍
-
-I analyse, interpret, and visualise a wide array of data, including crime, children's services and population demographics as a data & intelligence analyst at Westminster City Council. I previously coded front end and visualised real estate data to implement compelling platforms that empower data management and analysis at Deepki as a Solutions Engineer. I am self-motivated, work at pace to deliver high-quality projects, and am an effective communicator who can articulate complex scenarios to non-specialist audiences. After I graduated, I became the Lead ESG consultant at Onnu, an innovative biotechnology start-up in London.
+### Data and Analytics MSc (working towards 1st Class)
+Data and Intelligence Analyst at Westminster City Council, modelling and visualising crime, children's services and population data to inform statutory decisions and financial planning. I came to analytics from environmental science, via ESG consultancy at Onnu and solutions engineering at Deepki, and I'm completing an MSc in Data and Analytics alongside the role. I hold ONS secure researcher accreditation. I'm at my best turning technical work into something the people who have to act on it can actually use — service leads, councillors, residents.
 
 ### Links: 🔗
 - [LinkedIn](https://linkedin.com/in/sian-reilly)
@@ -16,6 +16,7 @@ I analyse, interpret, and visualise a wide array of data, including crime, child
 
 ## Skills / Qualifications 💻
 - Coding (in order of confidence): Python, r, DAX, YAML, HTML, SQL, Java.
+- ONS Secure Researcher Accreditation
 - PowerBI (PL300 course), DAX.
 - GIS: ArcGIS & QGIS (Spatial Analysis), ModelBuilder.
 - ETLs (Extract, Transform, & Load)
