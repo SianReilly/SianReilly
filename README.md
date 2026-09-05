@@ -32,7 +32,7 @@ I came to analytics from environmental science, via ESG consultancy at Onnu and 
 
 **[Children's demographics explorer](https://childrensdemographicswcc.streamlit.app/)** - Streamlit app for exploring child population decline and demand projections.
 
-**Power BI dashboards** using DAX and dynamic narrative text, including a suitability assessment for solar PV across the council's housing stock.
+**Power BI dashboards** using DAX and dynamic narrative text, one example dashboard: suitability assessment for solar PV across the council's housing stock.
 
 ---
 
@@ -44,7 +44,7 @@ I came to analytics from environmental science, via ESG consultancy at Onnu and 
 | **Also use/used** | YAML, HTML, Java |
 | **Analysis** | Regularised regression, clustering, spatial analysis, ETL pipelines |
 | **Visualisation** | Streamlit, Power BI (PL-300), Power Query, ArcGIS Pro, QGIS, ModelBuilder |
-| **Accreditations** | ONS Secure Researcher, Lead ISO 14001 Internal Auditor |
+| **Accreditations** | ONS Secure Researcher, Lead ISO 14001 Internal Auditor | Associate of the Institute of Sustainability and Environmental Professionals (ISEP)
 
 ---
 
@@ -86,7 +86,7 @@ ESG SaaS for real estate.
 *09/2025 – present · averaging 74% (1st class)*
 
 **Software Engineering Bootcamp** - HyperionDev
-*12/2023 – [CONFIRM] · 99%*
+*12/2023-05/2024 · 99%*
 
 **BSc Environmental Science, 1st Class Honours** - University of St Andrews
 *09/2016 – 07/2021*
