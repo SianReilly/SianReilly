@@ -44,7 +44,7 @@ I came to analytics from environmental science, via ESG consultancy at Onnu and 
 | **Also use/used** | YAML, HTML, Java |
 | **Analysis** | Regularised regression, clustering, spatial analysis, ETL pipelines |
 | **Visualisation** | Streamlit, Power BI (PL-300), Power Query, ArcGIS Pro, QGIS, ModelBuilder |
-| **Accreditations** | ONS Secure Researcher, Lead ISO 14001 Internal Auditor | Associate of the Institute of Sustainability and Environmental Professionals (ISEP)
+| **Accreditations** | ONS Secure Researcher, Lead ISO 14001 Internal Auditor | Associate of the Institute of Sustainability and Environmental Professionals (ISEP) |
 
 ---
 
